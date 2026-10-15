@@ -1,10 +1,12 @@
 # Northbridge Legal Request Portal
 
+![Northbridge Legal Request Portal](thumbnail.png)
+
 A browser-based prototype of a **Secretary's Certificate request workflow** for a corporate legal team: a requester asks for a certificate, the system finds the Board Resolution that authorizes it, Legal verifies and approves it, and a numbered certificate is generated from an approved template.
 
 > **Portfolio demo.** All companies, people, IDs and documents are fictional. It is an anonymized replica of a workflow I designed and built for a real legal department. SharePoint, email sending and a shared database are simulated; data stays in your browser.
 
-**Live demo:** https://lykabuilds.github.io/northbridge-legal-portal/
+**Live demo:** https://lykabuilds.github.io/northbridge_doc_portal/
 
 ## The problem
 

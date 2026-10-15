@@ -1,0 +1,6902 @@
+{
+  "supplier": {
+    "id": "supplier",
+    "source": "Supplier engagement Sec Cert template.docx",
+    "version": "2026-10-05",
+    "page": {
+      "page_width": 612.0,
+      "page_height": 1008.0,
+      "top_margin": 72.0,
+      "bottom_margin": 72.0,
+      "left_margin": 89.85,
+      "right_margin": 89.85
+    },
+    "blocks": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "REPUBLIC OF THE PHILIPPINES)",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 0,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "CITY OF _____________________) S.S.",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 1,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 2,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SECRETARY’S  CERTIFICATE",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 3,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 4,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "      I, ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{SecretaryName}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", Filipino, or legal age, in my capacity as the duly elected and incumbent Corporate Secretary of",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "CompanyName",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "}} ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "a corporation duly organized and existing under and by virtue of the laws of the Republic of the Philippines, with principal office address at the {{CompanyAddress}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", do hereby certify under oath that at the Special Meeting of the Board of Directors of the said corporation held on ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{BoardMeetingDate}} ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "at which meeting a quorum was present and acting throughout, the following resolution was passed and approved by the Board, to wit:",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0.0,
+        "right": 0.0,
+        "first": 0,
+        "before": 0.0,
+        "after": 0.0,
+        "line": 1.0791666666666666,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 5,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 6,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SCNumber}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 7,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 8,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     “RESOLVED, AS IT IS HEREBY RESOLVED, That the Corporation through the Board of Directors authorizes and directs management to ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "undertake a project for the ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{ThirdPartyEngagement}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ";",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 9,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 10,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "      RESOLVED FURTHER ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "to engage the services of ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "ThirdPartyName",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " to undertake the said ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{ThirdPartyScope}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0.0,
+        "after": 0.0,
+        "line": 1.0791666666666666,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 11,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 12,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "      RESOLVED FURTHER ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "that the cost of the said project amounting to",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{Currency}} {{TotalAmount}} be sourced by {{FundingSource}} at the rate of {{Currency}} {{AmountRate}}/{{AmountAllocation}};",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0.0,
+        "after": 0.0,
+        "line": 1.0791666666666666,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 13,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": " ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 14,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     RESOLVED FINALLY, That the Corporate Secretary be directed to furnish copies of this resolution to all parties concerned.”",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 15,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 16,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     AFFIANT FURTHER SAYETH NAUGHT.",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 17,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     {{ExecutionDateLong}} {{ExecutionCity}}.",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0.0,
+        "right": 0.0,
+        "first": 0,
+        "before": 0.0,
+        "after": 0.0,
+        "line": 1.0791666666666666,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 18,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 19,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SecretaryName}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 180.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 20,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Corporate Secretary",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 180.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 21,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "ATTESTED:",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 22,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 23,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{PresidentName}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 24,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "President",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 25,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 26,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     SUBSCRIBED AND SWORN to before me this _____ day of ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "________",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", 20",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "__",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", affiant exhibiting his SSS ID bearing No. {{SecretaryID}}. ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 27,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 28,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "times",
+            "size": 10.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 29,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "                                                                                 NOTARY PUBLIC",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 30,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Doc. No. ________:",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 31,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Page No. ________:",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 32,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Book No. ________:",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 33,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Series of {{Year}}",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ". ",
+            "family": "tahoma",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 34,
+        "resolution": false
+      }
+    ],
+    "deedHeader": false
+  },
+  "government": {
+    "id": "government",
+    "source": "AFI  2026-07-02 authority to transact with BIR (change address ).docx",
+    "version": "2026-10-05",
+    "page": {
+      "page_width": 612.0,
+      "page_height": 936.0,
+      "top_margin": 72.0,
+      "bottom_margin": 72.0,
+      "left_margin": 90.0,
+      "right_margin": 90.0
+    },
+    "blocks": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "REPUBLIC OF THE PHILIPPINES",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t)",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nCITY OF_________________________",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t) ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "s.s.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 0,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 16.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 1,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 2,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SECRETARY’S ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "CERTIFICATE",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 3,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 4,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 5,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "I, {{SecretaryName}}, ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "duly appointed and incumbent Corporate Secretary of ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{CompanyName}} ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " a corporation duly organized and existing under and by virtue of Philippine laws with principal office address at the ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{CompanyAddress}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ",",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          },
+          {
+            "text": " hereinafter referred to as the ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\"Corporation\"",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", after being duly sworn to in accordance with law, do hereby depose and state that at the Special Meeting of the Board of Directors held on ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{BoardMeetingDate}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " at its abovementioned principal office and at which meeting a quorum was present and acting throughout, the following resolution was unanimously approved and remains unrevoked to date, to wit:",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 6,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 7,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SCNumber}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 8,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "“RESOLVED, AS IT IS HEREBY",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "RESOLVED, ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "That the corporation through the Board of Directors, authorize and direct, as it hereby authorizes and directs management to transact with the ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{GovernmentAgency}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "-",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{AgencyOffice}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "for purposes of ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{TransactionPurpose}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ";",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 76.55,
+        "right": 76.55,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 9,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\"RESOLVED FURTHER, ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "That the corporation authorize and appoint, as it hereby authorizes and appoints its ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{SignatoryPosition}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          },
+          {
+            "text": ", ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{AuthorizedSignatory}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " to sign for and on behalf of the corporation, all documents relative to the aforementioned corporate undertaking as well as ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{AuthorizedRepresentative}} ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "to be the authorized representative of the Corporation to transact, process and submit the necessary documents related to the aforesaid undertaking;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 76.55,
+        "right": 76.55,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 10,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "“RESOLVED FINALLY,",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " That the Corporate Secretary be directed, as he is hereby authorized and directed to furnish all persons concerned copies of the foregoing resolution.”",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 76.55,
+        "right": 70.5,
+        "first": 0,
+        "before": 0,
+        "after": 12.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 11,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 76.55,
+        "right": 70.5,
+        "first": 0,
+        "before": 0,
+        "after": 12.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 12,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "IN WITNESS WHEREO",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "F",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ",",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "I have hereunto affixed my signature ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "this {{ExecutionDateLong}} at {{ExecutionCity}}, Philippines",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 13,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": -18.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 14,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SecretaryName}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "\n",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "Corporate Secretary",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 252.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 15,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 16,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SUBSCRIBED AND SWORN",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " to before me this ____ day of ________________ affiant exhibiting to me his ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "Social Security System ID # {{SecretaryID}} issued by the Social Security System of the Philippines",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 17,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Notary Public",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 252.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 18,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Doc. No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t____;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nPage No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t____;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nBook No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t____;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\n",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "Series of {{Year}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 19,
+        "resolution": false
+      }
+    ],
+    "deedHeader": false
+  },
+  "dividend": {
+    "id": "dividend",
+    "source": "SMI BR 2026 -08-01 Cash Dividend Declaration template.docx",
+    "version": "2026-10-05",
+    "page": {
+      "page_width": 612.0,
+      "page_height": 1008.0,
+      "top_margin": 72.0,
+      "bottom_margin": 79.2,
+      "left_margin": 86.4,
+      "right_margin": 86.4
+    },
+    "blocks": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "REPUBLIC OF THE PHILIPPINES",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t)",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nCITY OF____________________",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t) ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "s.s.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 0,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 1,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 2,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SECRETARY'S ",
+            "family": "times",
+            "size": 11,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "CERTIFICATE",
+            "family": "times",
+            "size": 11,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 3,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 4,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "I, {{SecretaryName}}, ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "of legal age, Filipino, duly appointed and incumbent Corporate Secretary of ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "a corporation duly organized and existing under and by ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "virtue of Philippine laws with principal office address at the ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{CompanyAddress}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          },
+          {
+            "text": ", ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          },
+          {
+            "text": "hereinafter referred to as the ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\"Corporation\"",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", after being duly sworn to in accordance with law, do hereby depose and state that at a ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "Regular",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " Meeting of the Board of Directors held on {{BoardMeetingDate}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "at its principal office address",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " and at which meeting a majority of the members of the Board of Directors",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " were present and acting throughout, the following resolution, on motion duly made and seconded, was unanimously approved:",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 5,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 6,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SCNumber}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 7,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 8,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\"RESOLVED, AS",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " IT",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " IS ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "HEREBY",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " RESOLVED",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", That the Corporation through the Board of Directors declare, as it hereby declares a ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "CASH DIVIDEND",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " equivalent to",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{AmountInWords}} ({{Currency}} {{DividendAmount}})",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "to be made payable to all stockholders of record as of {{RecordDate}}.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 79.1,
+        "right": 79.1,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 9,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "“RESOLVED FINALLY,",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " That the Corporate Secretary be direc",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "ted, as he is hereby authorized and directed to furnish all persons concerned copies of the foregoing ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "resolution.\"",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 79.1,
+        "right": 79.1,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 10,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 72.0,
+        "right": 72.0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 11,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 12,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "IN WITNESS WHEREOF, ",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "I have hereunto set my hand this",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{ExecutionDateLong}} at {{ExecutionCity}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", Philippines.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 13,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 14,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SecretaryName}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "\n",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "Corporate Secretary",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 252.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 15,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 259.2,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 16,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "ATTESTED BY:",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 259.2,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 17,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 259.2,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 18,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{PresidentName}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "\n",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          },
+          {
+            "text": "President",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 259.2,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 19,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 259.2,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 20,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SUBSCRIBED AND SWORN",
+            "family": "times",
+            "size": 11.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " to before me this ____ day of ________________ affiant exhibiting to me his ",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "Social Security System ID # {{SecretaryID}} issued by the Social Security System of the Philippines",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 36.0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 21,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Notary Public",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": true,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 252.0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 22,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Doc. No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t____;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nPage No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t__",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "_",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "_;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nBook No.",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t____;",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\nSeries of {{Year}}",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "times",
+            "size": 11.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 6.0,
+        "line": 1.0583333333333333,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 23,
+        "resolution": false
+      }
+    ],
+    "deedHeader": false
+  },
+  "deed": {
+    "id": "deed",
+    "source": "Deed of absolute sale template.docx",
+    "version": "2026-10-05",
+    "page": {
+      "page_width": 595.0,
+      "page_height": 841.0,
+      "top_margin": 72.0,
+      "bottom_margin": 72.0,
+      "left_margin": 90.0,
+      "right_margin": 90.0
+    },
+    "blocks": [
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "DEED OF ABSOLUTE SALE",
+            "family": "arial",
+            "size": 16.0,
+            "bold": true,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 0,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 1,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 2,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "SO",
+            "family": "arial",
+            "size": 14.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " THE PUBLIC MAY KNOW",
+            "family": "arial",
+            "size": 14.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ":",
+            "family": "arial",
+            "size": 14.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 3,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 4,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "This ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "DEED OF ABSOLUTE SALE",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " made and entered into this ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{ExecutionDateLong}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " at {{ExecutionCity}} by and between;",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 5,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 6,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 7,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{CompanyName}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " a corporation duly incorporated under and by virtue of Philippine laws with business address at ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "the",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " {{CompanyAddress}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " duly represented herein by its ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{SellerPosition}}, {{SellerSignatory}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "hereinafter",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " referred",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " to as the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "“",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELLER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "”",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ";",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 8,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 9,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "-and-",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 10,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 11,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{BuyerName}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", {{BuyerNationality}}, of legal age, ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "residing ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " at",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 12,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{BuyerAddress}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  hereinafter",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " referred to as the \"BUYER\";",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 13,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 14,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 15,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "WITNESSETH: That",
+            "family": "arial",
+            "size": 14.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 16,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 57.6,
+        "right": 57.6,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 17,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "WHEREAS,",
+            "family": "arial",
+            "size": 14.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELLER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " is the absolute and registered owner of the following ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "motor vehicle",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", more particularly described as follows:",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 18,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 19,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 20,
+        "resolution": false
+      },
+      {
+        "kind": "table",
+        "widths": [
+          177.2,
+          184.25
+        ],
+        "rows": [
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "M",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    },
+                    {
+                      "text": "ODEL",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    },
+                    {
+                      "text": "/MAKE/SERIES ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    },
+                    {
+                      "text": " ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "FDE9D9"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{VehicleModel}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "CHASIS ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    },
+                    {
+                      "text": "NO :",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    },
+                    {
+                      "text": " ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "FDE9D9"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{ChassisNumber}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "ENGINE NO: ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "FDE9D9"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{EngineNumber}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "FILE NO: ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "FDE9D9"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{FileNumber}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "PLATE NO: ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "FDE9D9"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{PlateNumber}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "justify",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ]
+        ],
+        "left": 35.2
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 21,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "             ",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "WHEREAS,",
+            "family": "arial",
+            "size": 14.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "the SELLER desires to sell the aforesaid motor vehicle and the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "BUYER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "is",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " able, willing and ready to purchase the same under the terms and conditions herein below set forth;",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 22,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 23,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "NOW THEREFORE",
+            "family": "arial",
+            "size": 14.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", ",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "for and in consideration of the sum total of",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{AmountInWords}} ({{Currency}} {{SaleAmount}})",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", Philippine currency, {{VATBasis}} and receipt hereof is hereby acknowledged by the said SELLER, the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELLER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " hereby ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELL,",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "CEDE, TRANSFER and CONVEY",
+            "family": "arial",
+            "size": 12.0,
+            "bold": true,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " unto the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "BUYER,",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " in a manner absolute and irrevocable the above-described ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "motor vehicle",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", free from any and all liens and encumbrances whatsoever",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 24,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 25,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\tThe ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELLER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " warrants that the Motor Vehicle is free from any liens and encumbrances and that said ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "SELLER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " shall defend the title and rights of the ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "BUYER",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " from any claims of whatever kind or nature from third persons.",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 26,
+        "resolution": true
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 27,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 28,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "IN WITNESS WHEREOF",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", the parties have caused these presents to be signed this",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " {{ExecutionDateLong}} ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 29,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 30,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 31,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "{{SellerSignatory}}\t{{BuyerName}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 32,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "(SELLER)\t(BUYER)",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 33,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 34,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "                                                                 ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 35,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 36,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "     ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "   ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "   ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "          ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 37,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 38,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 39,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t     ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 40,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "WITNESSES",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 41,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 42,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 43,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "         ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "_____________________",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "    ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "________________________",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 44,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 45,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 46,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 47,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 48,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 49,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "ACKNOWLEDGMENT",
+            "family": "arial",
+            "size": 16.0,
+            "bold": false,
+            "italic": false,
+            "underline": true
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 50,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 51,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "center",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 52,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Republic of the Philippines}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": true,
+        "pageBreak": false,
+        "id": 53,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "CITY      ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "         ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "OF   ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "              ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "  }",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " Sc.",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 54,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 55,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 56,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "BEFORE ME",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", personally appeared this ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "__________________",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " at _______________:",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 57,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 58,
+        "resolution": false
+      },
+      {
+        "kind": "table",
+        "widths": [
+          137.05,
+          132.05,
+          145.4
+        ],
+        "rows": [
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "NAME",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": true
+                    }
+                  ],
+                  "align": "center",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "DAEEF3"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "MEANS OF IDENTIFICATION",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": true
+                    }
+                  ],
+                  "align": "center",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "DAEEF3"
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "ISSUED BY/AT/VALID UNTIL",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": true
+                    }
+                  ],
+                  "align": "center",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": "DAEEF3"
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{SellerSignatory}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "justify",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "  ",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "{{BuyerName}}",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "justify",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "center",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ],
+          [
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "justify",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            },
+            {
+              "paragraphs": [
+                {
+                  "kind": "paragraph",
+                  "runs": [
+                    {
+                      "text": "",
+                      "family": "arial",
+                      "size": 11,
+                      "bold": false,
+                      "italic": false,
+                      "underline": false
+                    }
+                  ],
+                  "align": "left",
+                  "left": 0,
+                  "right": 0,
+                  "first": 0,
+                  "before": 0,
+                  "after": 0,
+                  "line": 1.15,
+                  "keep": false,
+                  "keepNext": false,
+                  "pageBreak": false
+                }
+              ],
+              "fill": null
+            }
+          ]
+        ],
+        "left": 0
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 59,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 60,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "             ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "All known to me and to me known to be the same persons who executed the foregoing instrument and hereby acknowledged to me that the same is their free act and deed.",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 61,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 62,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\tThis instrument consisting of {{PageCountWords}} ({{PageCount}})",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " pages, including this page on which this acknowledgment is written refers to a DEED OF SALE ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " and",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": " has been signed by the parties and their witnesses and sealed with my notarial seal.",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 63,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 64,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "IN WITNESS WHEREOF",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ", I have hereunto set my hand on the date and place first above written.",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "justify",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 65,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 66,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 67,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "                              ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "   ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "                       ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "NOTARY PUBLIC",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 68,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Doc. No. ___;",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 69,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Page No. ___;",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 70,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Book No.___;",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 71,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "Series of ",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "{{Year}}",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": ".",
+            "family": "arial",
+            "size": 12.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 72,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          },
+          {
+            "text": "\t",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 73,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 74,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 75,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": "",
+            "family": "arial",
+            "size": 11,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 76,
+        "resolution": false
+      },
+      {
+        "kind": "paragraph",
+        "runs": [
+          {
+            "text": ":",
+            "family": "arial",
+            "size": 6.0,
+            "bold": false,
+            "italic": false,
+            "underline": false
+          }
+        ],
+        "align": "left",
+        "left": 0,
+        "right": 0,
+        "first": 0,
+        "before": 0,
+        "after": 0,
+        "line": 1.15,
+        "keep": false,
+        "keepNext": false,
+        "pageBreak": false,
+        "id": 77,
+        "resolution": false
+      }
+    ],
+    "deedHeader": true
+  }
+}
